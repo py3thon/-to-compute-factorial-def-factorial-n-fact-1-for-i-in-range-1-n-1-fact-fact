@@ -32,6 +32,7 @@ def triangle(n):
          
             # printing number
             #print(ncr(i,j), end=" ")
+            # format to 3 ditgits
             print("%3d" % (ncr(i,j)), end="   ")
         
         #print("*", end="")
