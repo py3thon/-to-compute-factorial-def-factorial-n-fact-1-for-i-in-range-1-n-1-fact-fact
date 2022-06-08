@@ -20,7 +20,7 @@ def triangle(n):
      
         # inner loop to handle number spaces
         # values changing acc. to requirement
-        for j in range(0, k+1):
+        for j in range(0, k+2):
             print(end="   ")
      
         # decrementing k after each loop
