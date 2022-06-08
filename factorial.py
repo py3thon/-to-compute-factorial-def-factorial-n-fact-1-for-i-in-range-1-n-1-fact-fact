@@ -32,8 +32,7 @@ def triangle(n):
          
             # printing number
             #print(ncr(i,j), end=" ")
-            #formal number to 4 digits
-            print("%4d" % (ncr(i,j)), end="  ")
+            print("%3d" % (ncr(i,j)), end="   ")
         
         #print("*", end="")
      
